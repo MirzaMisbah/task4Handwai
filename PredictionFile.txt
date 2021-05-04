@@ -1,1 +1,1 @@
-The file that has been coded for the prediction of the data can be found under https://github.com/MirzaMisbah/task4Handwai/blob/main/EmergingRareEntities.ipynb
+The file that has been coded for the prediction of the data can be found under https://github.com/MirzaMisbah/task4Handwai/blob/main/EmergingRareEntities.ipynb and the prediction file with the (on test data) in CoNLL format (word, gold standard tag, predicted tag) can be found under https://github.com/MirzaMisbah/task4Handwai/blob/main/prediction .
